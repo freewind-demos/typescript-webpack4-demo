@@ -1,4 +1,4 @@
-TypeScript Webpack Demo
+TypeScript Webpack4 Demo
 =======================================
 
 ```
